@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmirCtis0
 - 👀 I’m interested in coding and i am a Ctis student in bilkent 
-- 🌱 I’m currently learning java, html and css
+- 🌱 I’m currently learning php, mySQL, phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
