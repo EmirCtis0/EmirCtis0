@@ -43,7 +43,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  
 </div>
 
 ###
@@ -57,15 +56,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
 ###
 
 <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight" height="200" width="500" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight" height="300" width="600" alt="languages graph"  />
 
 <div align="center">
 </div>
