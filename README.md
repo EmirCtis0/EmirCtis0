@@ -65,7 +65,7 @@
 ###
 
 <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight" height="200" width="300" alt="languages graph"  />
 
 <div align="center">
 </div>
