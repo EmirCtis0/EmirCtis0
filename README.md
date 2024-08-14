@@ -65,7 +65,7 @@
 ###
 
 <br clear="both">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=tokyonight
 
 <div align="center">
 </div>
