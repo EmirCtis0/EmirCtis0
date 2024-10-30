@@ -67,7 +67,7 @@
 
 <div align="center">
   <br clear="both">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="300" width="400" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&theme=dark&hide_border=True&include_all_commits=false&count_private=false&layout=compact" height="300" width="400" alt="languages graph"  />
 </div>
 
 ###
