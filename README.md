@@ -65,14 +65,4 @@
 
 
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&layout=compact&theme=tokyonight"
-    height="200"
-    alt="Top languages"
-  />
-</div>
 
-
-
-###
