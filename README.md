@@ -66,9 +66,10 @@
 
 
 <div align="center">
-  <br clear="both">
-<img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&layout=compact&theme=tokyonight)
-" height="300" width="400" alt="languages graph"  />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCtis0&layout=compact&theme=tokyonight)
+
 </div>
+
 
 ###
